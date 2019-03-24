@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/rachelhollister/Friend-Finder#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
     "node": "^11.12.0"
   }
 }
