@@ -1,0 +1,23 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "A nodejs and express application that matches you to a friend based on logic.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachelhollister/Friend-Finder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rachelhollister/Friend-Finder/issues"
+  },
+  "homepage": "https://github.com/rachelhollister/Friend-Finder#readme",
+  "dependencies": {
+    "node": "^11.12.0"
+  }
+}
