@@ -1,9 +1,8 @@
-# Friend-Finder
-A full-stack site that matches users to each other based on answers from a survey. 
+# Sea-Friend-Finder
 
+Find your oceanic buddy! Within this "Friend-Finding" application npm packages and express are being implemented.
 
--Node js express servers to handle routing using get and post methods.
--Packages included are body parser, Express, and path.
--Logic is comparing difference between a sum total of numbers entered by the user and the array of numbers
-for each possible friend
--Once the closes match is determined, a pop up-module displays the results
+The user will start out on the home.html page and be prompted to go to the survey.html page through a button. They will take a short survey of 10 questions. Each answer is set on from 1-5, based on how much the user agrees with the question or statement. The logic behind the users answers that will display their closes match is between a sum of total numbers entered by the user and the array compaared.
+
+After the user answers the 10 questions a modal will pop up, displaying a title and image of the sea creature they match the best with!
+
