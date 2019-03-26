@@ -42,7 +42,7 @@ app.post("/api/friends", function(req, res) {
         console.log("Total Diff " + totalDifference);
         console.log("Best match friend diff " + bestMatch.friendDifference);
 
-        var bfriendScore = friens[i].scores.reduce((a,b) => a + b, 0);
+        var bfriendScore = friends[i].scores.reduce((a,b) => a + b, 0);
         console.log("Total friend score " + bfriendScore);
         totalDifference += Math.abs(sum - bfriendScore)
         console.log("----------------->" + totalDifference);
