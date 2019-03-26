@@ -43,6 +43,5 @@ var friends = [
 ];
 
 //export the module
-
 module.exports = friends;
 
