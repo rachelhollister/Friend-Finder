@@ -1,8 +1,4 @@
-//make JSON array that acts as database
-//make an array of objects
-//the scores is an array of 10 numbers that will be 
-//summed and compared to the 
-//sum of the score that the user puts into the form
+
 var friends = [
     {
         name: "Mantis Shrimp",
@@ -24,7 +20,7 @@ var friends = [
 
     {
         name: "Clown Fish",
-        photo: "https://wonderopolis.org/wp-content/uploads/2016/03/f.jpg",
+        photo: "https://static.wixstatic.com/media/a3b3ce58-21f0-4f83-bac3-721c9554a9a5.jpg/v1/fit/w_498%2Ch_335%2Cq_90/file.webp",
         scores: [3, 3, 4, 2, 2, 1, 3, 2, 2, 3]
     },
 
