@@ -1,5 +1,4 @@
 //make JSON array that acts as database
-
 //make an array of objects
 //the scores is an array of 10 numbers that will be 
 //summed and compared to the 
@@ -14,31 +13,31 @@ var friends = [
     {
         name: "Cuttlefish",
         photo: "https://i1.wp.com/oceanbites.org/wp-content/uploads/2013/12/cuttlefish.jpg?fit=1200%2C750&ssl=1",
-        scores: [3, 2, 5, 4, 1, 4, 4, 3, 2, 1]
+        scores: [4, 2, 5, 1, 3, 2, 2, 1, 3, 2]
     },
 
     {
         name: "Sun Fish",
         photo: "https://wonderopolis.org/wp-content/uploads/2016/03/f.jpg",
-        scores: [4, 3, 2, 5, 1, 1, 1, 2, 4, 3]
+        scores: [5, 2, 2, 2, 4, 1, 3, 2, 5, 5]
     },
 
     {
         name: "Clown Fish",
         photo: "https://wonderopolis.org/wp-content/uploads/2016/03/f.jpg",
-        scores: [5, 1, 1, 2, 3, 3, 4, 1, 5, 2]
+        scores: [3, 3, 4, 2, 2, 1, 3, 2, 2, 3]
     },
 
     {
         name: "Great White Shark",
         photo: "http://www.guadalupegreatwhitesharks.com/wp-content/uploads/2018/05/Dan-Orr4-1-1612x977-1.jpg",
-        scores: [3, 1, 4, 5, 5, 3, 2, 2, 1, 1]
+        scores: [4, 3, 4, 1, 5, 2, 5, 3, 1, 4]
     },
 
     {
         name: "Sea Turtle",
         photo: "https://c402277.ssl.cf1.rackcdn.com/photos/14905/images/magazine_hero/Medium_WW1113937.jpg?1513698429",
-        scores: [4, 3, 1, 1, 4, 2, 1, 1, 5, 4]
+        scores: [4, 4, 2, 3, 2, 2, 3, 2, 4, 5]
     },
 ];
 

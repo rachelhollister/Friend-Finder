@@ -1,5 +1,5 @@
 //connect JSON file, the array of objects
-var friends = require("../data/friends.js");
+var friends = require("../data/friends");
 
 //module.exports to house everything
 module.exports = function(app) {
