@@ -1,0 +1,6 @@
+{
+    "name": "Friend Finder Application",
+    "description": "A node application using Express",
+    "repository": "https://github.com/rachelhollister/beach-azon",
+    "keywords": ["node", "express", "static"]
+  }
